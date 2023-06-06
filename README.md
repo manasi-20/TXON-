@@ -1,6 +1,6 @@
 # TXON-
 TXON tasks
-I have created 4 android applications using android studio in internship provided by TXON.
+I have created 3 android applications using android studio in internship provided by TXON.
 These are the following 3 applications that I have developed -
 1. Unit Converter
 2. Calculator 
